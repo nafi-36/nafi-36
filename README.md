@@ -47,8 +47,8 @@
 <details>
   <summary>📫Top Languages</summary>
     
-  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-36&theme=radical" />
-  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafi-36&theme=radical" />
+  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-36&theme=monokai" />
+  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafi-36&theme=monokai" />
   
 </details>
 
@@ -63,7 +63,7 @@
 <details>
   <summary>📊Contribution Graph</summary>
 
-  <img alt="Siti Nafiatul Fauziah's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=nafi-36&theme=rouge" />
+  <img alt="Siti Nafiatul Fauziah's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=nafi-36&theme=monokai" />
 
 </details>
 
