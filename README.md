@@ -1,10 +1,10 @@
-<h1 align="center">𝐇𝐈 𝐓𝐇𝐄𝐑𝐄 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 <h2 align="center">˜”*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*”˜</h2>
 
 <div align="center">
   <h3>My Skills</h3>
-  
+  <br>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -26,7 +26,7 @@
 
 </div>
 <br>
-
+<hr>
 <details>
   <summary>📫GitHub Stats</summary>
 
