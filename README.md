@@ -1,4 +1,4 @@
-<h1 align="center">🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">ℍ𝕀 𝕋ℍ𝔼ℝ𝔼 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 <h2 align="center">˜”*°• 𝐈 𝐚𝐦 𝐒𝐢𝐭𝐢 𝐍𝐚𝐟𝐢𝐚𝐭𝐮𝐥 𝐅𝐚𝐮𝐳𝐢𝐚𝐡 •°*”˜</h2>
 
@@ -67,5 +67,5 @@
 </details>
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Y_o_FHzpY0_A2NcfJVmuS4gX6UqxEvb89A&usqp=CAU" width="200 px" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Y_o_FHzpY0_A2NcfJVmuS4gX6UqxEvb89A&usqp=CAU" width="300 px" />
 </div>  
