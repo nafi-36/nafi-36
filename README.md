@@ -1,6 +1,6 @@
-<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2 align="center">𝕀 𝕒𝕞 𝕊𝕚𝕥𝕚 ℕ𝕒𝕗𝕚𝕒𝕥𝕦𝕝 𝔽𝕒𝕦𝕫𝕚𝕒𝕙</h2>
+<h2 align="center">˜”*°• 𝐈 𝐚𝐦 𝐒𝐢𝐭𝐢 𝐍𝐚𝐟𝐢𝐚𝐭𝐮𝐥 𝐅𝐚𝐮𝐳𝐢𝐚𝐡 •°*”˜</h2>
 
 <div align="center">
   <h3>My Skills</h3>
@@ -67,5 +67,5 @@
 </details>
 
 <div align="center">
-  <img src="https://cliply.co/wp-content/uploads/2021/08/472108170_THANK_YOU_STICKER_400.png" width="100 px" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Y_o_FHzpY0_A2NcfJVmuS4gX6UqxEvb89A&usqp=CAU" width="200 px" />
 </div>  
