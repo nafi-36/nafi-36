@@ -25,8 +25,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 </div>
-
-<hr>
+<br>
 
 <details>
   <summary>📫GitHub Stats</summary>
