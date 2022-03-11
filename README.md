@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-
+<hr>
 <h2 align="center">˜”*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*”˜</h2>
-
+<hr>
 <div align="center">
   <h3>My Skills</h3>
   
