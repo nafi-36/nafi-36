@@ -67,5 +67,5 @@
 </details>
 
 <div align="center">
-  <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="300 px" />
+  <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
 </div>  
