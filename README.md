@@ -1,6 +1,6 @@
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2 align="center">𝐈 𝐚𝐦 𝐒𝐢𝐭𝐢 𝐍𝐚𝐟𝐢𝐚𝐭𝐮𝐥 𝐅𝐚𝐮𝐳𝐢𝐚𝐡<br>𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐚𝐥𝐥 𝐦𝐞 𝐙𝐢𝐚</h2>
+<h2 align="center">𝐈 𝐚𝐦 𝐒𝐢𝐭𝐢 𝐍𝐚𝐟𝐢𝐚𝐭𝐮𝐥 𝐅𝐚𝐮𝐳𝐢𝐚𝐡</h2>
 
 <div align="center">
   <h3>My Skills </h3>
@@ -23,7 +23,9 @@
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma-ide&logoColor=2C2255)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-  <h3>𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦 ♥</h3>
+  
+  <h2>𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦 ♥</h2>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcute-thank-you-thank-you-cute-gif-21950787&psig=AOvVaw1M0GRy0y9zmMKcSeY23Ckl&ust=1647073186058000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCypvrPvfYCFQAAAAAdAAAAABAN" />
 </div>
 <br>
 
