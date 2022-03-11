@@ -1,9 +1,9 @@
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2 align="center">𝐈 𝐚𝐦 𝐒𝐢𝐭𝐢 𝐍𝐚𝐟𝐢𝐚𝐭𝐮𝐥 𝐅𝐚𝐮𝐳𝐢𝐚𝐡</h2>
+<h2 align="center">𝕀 𝕒𝕞 𝕊𝕚𝕥𝕚 ℕ𝕒𝕗𝕚𝕒𝕥𝕦𝕝 𝔽𝕒𝕦𝕫𝕚𝕒𝕙</h2>
 
 <div align="center">
-  <h3>My Skills </h3>
+  <h3>My Skills</h3>
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -23,9 +23,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma-ide&logoColor=2C2255)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-  
-  <h2>𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦 ♥</h2>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcute-thank-you-thank-you-cute-gif-21950787&psig=AOvVaw1M0GRy0y9zmMKcSeY23Ckl&ust=1647073186058000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCypvrPvfYCFQAAAAAdAAAAABAN" />
+
 </div>
 <br>
 
@@ -40,7 +38,7 @@
 <details>
   <summary>📫Most Used Languages</summary>
 
-  <img alt="Zia GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" /><br>
+  <img alt="Zia GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafi-36&layout=compact&theme=radical" /><br>
 
   
 </details>
@@ -48,8 +46,8 @@
 <details>
   <summary>📫Top Languages</summary>
     
-  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
-  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
+  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-36&theme=monokai" />
+  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafi-36&theme=monokai" />
   
 </details>
 
@@ -68,3 +66,6 @@
 
 </details>
 
+<div align="center">
+  <img src="https://cliply.co/wp-content/uploads/2021/08/472108170_THANK_YOU_STICKER_400.png" width="100 px" />
+</div>  
