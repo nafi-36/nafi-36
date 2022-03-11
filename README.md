@@ -1,6 +1,6 @@
-<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2 align="center">I am Siti Nafiatul Fauziah</h2>
+<h2 align="center">𝐈 𝐚𝐦 𝐒𝐢𝐭𝐢 𝐍𝐚𝐟𝐢𝐚𝐭𝐮𝐥 𝐅𝐚𝐮𝐳𝐢𝐚𝐡<br>𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐚𝐥𝐥 𝐦𝐞 𝐙𝐢𝐚</h2>
 
 <div align="center">
   <h3>My Skills </h3>
@@ -23,14 +23,14 @@
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma-ide&logoColor=2C2255)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
+  <h3>𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦 ♥</h3>
 </div>
 <br>
 
 <details>
   <summary>📫GitHub Stats</summary>
 
-  <img  alt="nafi-36GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nafi-36&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+  <img  alt="Zia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nafi-36&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 
 
 </details>
@@ -38,7 +38,7 @@
 <details>
   <summary>📫Most Used Languages</summary>
 
-  <img alt="nafi-36GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" /><br>
+  <img alt="Zia GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadillaratna&layout=compact&theme=radical" /><br>
 
   
 </details>
@@ -46,8 +46,8 @@
 <details>
   <summary>📫Top Languages</summary>
     
-  <img alt="nafi-36GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
-  <img alt="nafi-36GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
+  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fadillaratna&theme=monokai" />
+  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fadillaratna&theme=monokai" />
   
 </details>
 
