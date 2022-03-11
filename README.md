@@ -47,7 +47,7 @@
 <details>
   <summary>📫Top Languages</summary>
     
-  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-36&theme=rouge" />
+  <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-36&theme=radical" />
   <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafi-36&theme=radical" />
   
 </details>
