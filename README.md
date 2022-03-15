@@ -7,7 +7,7 @@
 </div>  
 
 <div align="center">
-  <h3>###  About My Skills  ###</h3>
+  <h3>A͟b͟o͟u͟t͟ ͟M͟y͟ ͟S͟k͟i͟l͟l͟s͟</h3>
   
   🔴 Databases 🔴<br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
