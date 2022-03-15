@@ -50,7 +50,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;  
 
-</div><hr>
+</div><br>
 
 <details>
   <summary>📫GitHub Stats</summary>
@@ -94,7 +94,7 @@
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</div><hr> 
+</div><br> 
 
 <div align="center">
   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
