@@ -92,8 +92,8 @@
   <img alt="Siti Nafiatul Fauziah's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=nafi-36&theme=monokai" />
 
 </details>
-<hr>
-<h2 align="center">Reach Me <br><img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></h2> 
+
+<h1 align="center">Reach Me <br><img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></h1> 
 
 <div align="center">
   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
