@@ -9,10 +9,10 @@
 <div align="center">
   <h3>About My Skills</h3>
   
-  Databases : <br>
+  Databases 💾 <br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   
-  Frameworks, Platforms and Libraries : <br>
+  Frameworks, Platforms and Libraries 📚 <br>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;   
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
@@ -40,7 +40,7 @@
   Servers : <br>
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
  
-  Design : <br>
+  Design 🎨 <br>
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
@@ -93,7 +93,7 @@
 
 </details>
 <hr>
-<h1 align="center">Reach Me <br><br><img src="https://img.shields.io/badge/nav__y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></h1> 
+<h1 align="center">Reach Me <br><img src="https://img.shields.io/badge/nav__y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></h1> 
 
 <div align="center">
   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
