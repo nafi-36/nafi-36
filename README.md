@@ -9,7 +9,7 @@
 <div align="center">
   <h3>About My Skills</h3>
   
-  🔴 Databases 🔴<br>
+  🔴 Databases 🔴<br style="margin-bottom=5px">
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   
   🟠 Frameworks, Platforms and Libraries 🟠<br>
