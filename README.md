@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<div class="card">
-  <h2 align="center">˜”*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*”˜</h2>
+<div align="center">
+  <h2>˜”*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*”˜</h2>
   <p>I have no special talent. I am only passionately curious.</p>
   <div align="left">
     <img src="https://img.shields.io/github/followers/nafi-36.svg?style=social&label=Followers&maxAge=2592000" /> 
