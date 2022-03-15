@@ -3,7 +3,7 @@
 <h2 align="center">˜”*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*”˜</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/github/followers/nafi-36.svg?style=social&label=Follow&maxAge=2592000" /> 
+  <img src="https://img.shields.io/github/followers/nafi-36.svg?style=social&label=Followers&maxAge=2592000" /> 
 </div>
 
 <div align="center">
