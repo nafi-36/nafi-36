@@ -12,7 +12,7 @@
   Databases<br><br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   
-  Frameworks, Platforms and Libraries <br> 
+  Frameworks, Platforms and Libraries<br><br> 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;   
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
@@ -31,8 +31,7 @@
   ORM<br><br>
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;  
 
-  Databases<br><br>
-  IDEs/Editors
+  IDEs/Editors<br><br>
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;  
  
   Other<br><br>
@@ -52,11 +51,12 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;  
 
 </div>
-<br>
 
-<di>
+<hr>
+
+<di align="center">
   <p>Reach me </p>
-  <img src="https://img.shields.io/badge/<nav__y>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/nav__y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </div>  
 
 <details>
