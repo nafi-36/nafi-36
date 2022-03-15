@@ -94,7 +94,9 @@
 </details>
 
 <h3 align="center">Reach Me</h3>
-<img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
+<div align="center">
+  <img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</div> 
 
 <div align="center">
   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
