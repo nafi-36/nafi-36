@@ -50,7 +50,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;  
 
-</div>
+</div><hr>
 
 <details>
   <summary>📫GitHub Stats</summary>
@@ -89,7 +89,7 @@
 
   <img alt="Siti Nafiatul Fauziah's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=nafi-36&theme=monokai" />
 
-</details>
+</details><hr>
 
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
