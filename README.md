@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>About My Skills</h3>
-  <br>
+  
   Databases<br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   <hr>
@@ -93,7 +93,7 @@
 
 </details>
 <hr>
-<h1 align="center">Reach Me <br><img src="https://img.shields.io/badge/nav__y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></h1> 
+<h1 align="center">Reach Me <br><br><img src="https://img.shields.io/badge/nav__y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></h1> 
 
 <div align="center">
   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
