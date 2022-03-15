@@ -4,9 +4,7 @@
   <h2>˜”*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*”˜</h2>
   <!-- <p>I have no special talent. I am only passionately curious.</p> -->
   <!-- <img src="https://img.shields.io/github/followers/nafi-36.svg?style=social&label=Followers&maxAge=2592000" /> -->
-</div>  
-
-<br>
+</div><br>
 
 <div align="center">
   <h3>A͟b͟o͟u͟t͟ ͟M͟y͟ ͟S͟k͟i͟l͟l͟s͟</h3><br>
