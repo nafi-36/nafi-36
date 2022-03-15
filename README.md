@@ -93,7 +93,7 @@
 
 </details>
 
-<h1 align="center">Reach Me</h1><br>
+<h3 align="center">Reach Me</h3>
 <img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
 
 <div align="center">
