@@ -93,7 +93,8 @@
 
 </details>
 
-<h1 align="center">Reach Me <br><img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></h1> 
+<h1 align="center">Reach Me</h1><br>
+<img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
 
 <div align="center">
   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
