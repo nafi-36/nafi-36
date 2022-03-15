@@ -52,8 +52,6 @@
 
 </div>
 
-<hr>
-
 <details>
   <summary>📫GitHub Stats</summary>
 
