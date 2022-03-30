@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>-----     A͟b͟o͟u͟t͟ ͟M͟y͟ ͟S͟k͟i͟l͟l͟s͟     -----</h3><br>
+  <h3>----- About My Skills -----</h3><br>
   
   🔴 Databases 🔴<br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -94,8 +94,8 @@
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
   <!--<img src="https://img.shields.io/badge/nav____y-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> -->
-  [![Instagram Badge](https://img.shields.io/badge/-nav__y-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nav__y/)](https://www.instagram.com/nav__y/)&nbsp;
-  [![Portfolio Badge](https://img.shields.io/badge/-nafi-36-orange?style=flat-square&logo=github&logoColor=white&linkhttps://github.com/nafi-36)](https://github.com/nafi-36) 
+  ![Instagram Badge](https://img.shields.io/badge/-nav__y-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nav__y/)(https://www.instagram.com/nav__y/)&nbsp;
+  ![Portfolio Badge](https://img.shields.io/badge/-nafi-36-orange?style=flat-square&logo=github&logoColor=white&linkhttps://github.com/nafi-36)(https://github.com/nafi-36) 
 </div><br><br> 
 
 <div align="center">
