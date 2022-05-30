@@ -93,7 +93,7 @@
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
  
- [![Instagram Badge](https://img.shields.io/badge/-nav__y-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nav__y/)](https://www.instagram.com/nav__y/) [![Gmail Badge](https://img.shields.io/badge/-jeonnafi123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonnafi123@gmail.com)](mailto:jeonnafi123@gmail.com)  [![Portfolio Badge](https://img.shields.io/badge/-nafi-orange?style=flat-square&logo=github&logoColor=white&linkhttps://github.com/nafi-36)](https://github.com/nafi-36) 
+ [![Instagram Badge](https://img.shields.io/badge/-nav__y-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nav__y/)](https://www.instagram.com/nav__y/) [![Gmail Badge](https://img.shields.io/badge/-jeonnafi123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonnafi123@gmail.com)](mailto:jeonnafi123@gmail.com) 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-fadillaratna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadillaratna)](https://www.linkedin.com/in/fadillaratna) -->
   
 </div>
