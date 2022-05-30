@@ -93,8 +93,7 @@
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
  
- [![Instagram Badge](https://img.shields.io/badge/-fadillaratnaa_-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fadillaratnaa_/)](https://www.instagram.com/fadillaratnaa_/) [![Gmail Badge](https://img.shields.io/badge/-ratnafadilla183@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ratnafadilla183@gmail.com)](mailto:ratnafadilla183@gmail.com)
-  <img src="https://img.shields.io/badge/-nav__y-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nav__y/"width="100px"/>
+ [![Instagram Badge](https://img.shields.io/badge/-nav__y-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nav__y/)](https://www.instagram.com/nav__y/) [![Gmail Badge](https://img.shields.io/badge/-jeonnafi123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonnafi123@gmail.com)](mailto:jeonnafi123@gmail.com)
 
 <div align="center">
   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="250px" />
