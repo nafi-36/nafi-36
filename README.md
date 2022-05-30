@@ -92,7 +92,6 @@
 
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/1644ff84304700bf564614689a745a7ba28802220b0c063c984ec6c8e359599d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e61765f5f792d6331333538343f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f6e61765f5f792f"/>
   <img src="https://img.shields.io/badge/-nav__y-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nav__y/" width="100px"/>
   <!--<img src="https://img.shields.io/badge/-nafi-36-orange?style=flat-square&logo=github&logoColor=white&linkhttps://github.com/nafi-36" />-->
 </div><br><br> 
