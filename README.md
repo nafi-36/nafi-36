@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"></h1>
+<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> --></h1>
 
 <div align="center">
   <h2>˜*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*˜</h2>
