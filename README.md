@@ -99,5 +99,5 @@
 </div>
 
 <div align="center">
-  <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="100px" />
+  <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" />
 </div>  
