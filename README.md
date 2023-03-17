@@ -82,13 +82,7 @@
   <img alt="Siti Nafiatul Fauziah's Contribution Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=nafi-36&theme=radical" />
 
 </details>
-
-<details>
-  <summary>📊Contribution Graph</summary>
-
-  <img alt="Siti Nafiatul Fauziah's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=nafi-36&theme=monokai" />
-
-</details><hr>
+<hr>
 
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
