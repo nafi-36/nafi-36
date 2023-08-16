@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 <!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> --></h1>
+<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞! >_<</h1>
 
 <div align="center">
   <h2>˜*°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°*˜</h2>
@@ -11,6 +11,7 @@
   
   🔴 Databases 🔴<br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/firebase-%2300f.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
   
   🟠 Frameworks and Libraries 🟠<br>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;   
