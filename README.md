@@ -70,13 +70,13 @@
   
 </details>
 
-<details>
+<!-- <details>
   <summary>📊Top Languages</summary>
     
   <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-36&theme=monokai" />
   <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafi-36&theme=monokai" />
   
-</details>
+</details> -->
 
 
 <details>
