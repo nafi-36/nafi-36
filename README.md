@@ -89,7 +89,7 @@
 <h3 align="center">Reach Me ✨</h3>
 <div align="center">
  
- [![Instagram Badge](https://img.shields.io/badge/-zhyhya-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zhyhya/)](https://www.instagram.com/zhyhya/) [![Gmail Badge](https://img.shields.io/badge/-jeonnafi123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonnafi123@gmail.com)](mailto:jeonnafi123@gmail.com) 
+ [![Instagram Badge](https://img.shields.io/badge/-zhyhya-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zhyhya/)](https://www.instagram.com/zhyhya/) [![Gmail Badge](https://img.shields.io/badge/-ziafauziah712@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ziafauziah712@gmail.com)](mailto:ziafauziah712@gmail.com) 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-fadillaratna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadillaratna)](https://www.linkedin.com/in/fadillaratna) -->
   
 </div>
