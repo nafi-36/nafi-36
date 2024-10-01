@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 
 <div align="center">
-  <img src="https://thegalwayreview.com/wp-content/uploads/2012/09/horizontal_20line_20one-5_large.gif"/>
+  <img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif"/>
 </div>
 <div align="center">
   <p>I'm Siti Nafiatul Fauziah.</p>
