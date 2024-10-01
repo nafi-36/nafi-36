@@ -1,7 +1,8 @@
-<p align="center">Hi There 👋</p>
+<h1 align="center">Hi There 👋</h1>
 <div align="center">
 <a href="https://www.animatedimages.org/cat-lines-562.htm" align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" /></a>
 </div>
+<br>
 <div align="center">
   <p>I'm Siti Nafiatul Fauziah.</p>
   <p>I'm currently studying Software Engineering at Telkom University Surabaya.💻🎓</p>
