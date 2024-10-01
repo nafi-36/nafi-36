@@ -1,4 +1,4 @@
-<h3 align="center">Hi There 👋</h3>
+<h1 align="center">Hi There 👋</h1>
 <div align="center">
   <a href="https://www.animatedimages.org/cat-lines-562.htm" align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" border="0" alt="animated-line-image-0184" /></a>
 </div>
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h5>Skills 📚</h5><br>
+  <h3>Skills 📚</h3><br>
   
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/firebase-%2300f.svg?style=for-the-badge&logo=firebase&logoColor=white)
@@ -61,7 +61,7 @@
 </details>
 <hr>
 
-<h5 align="center">Reach Me ✨</h5>
+<h3 align="center">Reach Me ✨</h3>
 <div align="center">
  
  [![Instagram Badge](https://img.shields.io/badge/-zhyhya-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zhyhya/)](https://www.instagram.com/zhyhya/) [![LinkedIn Badge](https://img.shields.io/badge/-sitinafiatulfauziah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sitinafiatulfauziah/)](https://www.linkedin.com/in/sitinafiatulfauziah/) [![Gmail Badge](https://img.shields.io/badge/-ziafauziah712@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ziafauziah712@gmail.com)](mailto:ziafauziah712@gmail.com)
