@@ -1,5 +1,7 @@
-<h1 align="center">Hi There 👋</h1><a href="https://www.animatedimages.org/cat-lines-562.htm" align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" border="0" alt="animated-line-image-0184" /></a>
-
+<h1 align="center">Hi There 👋</h1>
+<div align="center">
+  <a href="https://www.animatedimages.org/cat-lines-562.htm" align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" border="0" alt="animated-line-image-0184" /></a>
+</div>
 <br>
 <div align="center">
   <b>I'm Siti Nafiatul Fauziah.</b>
