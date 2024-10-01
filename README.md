@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif"/>
 </div>
+
 <div align="center">
   <p>I'm Siti Nafiatul Fauziah.</p>
   <p>I'm currently studying Software Engineering at Telkom University Surabaya.💻🎓</p>
