@@ -9,7 +9,7 @@
   <br>
   <p>I'm currently studying Software Engineering at Telkom University Surabaya. I have a strong interest in how technology is developing and I'm passionate about software engineering and learn about the complexities of software development, problem-solving, and coming up with new ideas.🚀</p>
 </div>
-
+<br>
 <div align="center">
   <h3>Skills 📚</h3><br>
   
