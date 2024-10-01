@@ -1,6 +1,10 @@
 <h1 align="center">Hi There 👋</h1>
 
 <div align="center">
+  <img src="[https://condaluna.com/assets/stickers/thank-you-pling.gif](https://thegalwayreview.com/wp-content/uploads/2012/09/horizontal_20line_20one-5_large.gif)"/>
+</div>
+
+<div align="center">
   <p>I'm Siti Nafiatul Fauziah.</p>
   <p>I'm currently studying Software Engineering at Telkom University Surabaya.💻🎓</p>
   <p>I have a strong interest in how technology is developing and how it may improve people's lives and entire industries. I'm passionate about software engineering and learn about the complexities of software development, problem-solving, and coming up with new ideas.🚀</p>
