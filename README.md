@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif"/>
+  <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" /></a>
 </div>
 
 <div align="center">
