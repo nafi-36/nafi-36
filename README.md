@@ -8,9 +8,10 @@
 </div>
 
 <div align="center">
-  <h3>--- About My Skills ---</h3><br>
+  <h3>Skills📚</h3><br>
   
-  🔴 Databases 🔴<br>
+  <!--🔴 Databases 🔴-->
+  <br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/firebase-%2300f.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
   
@@ -56,34 +57,23 @@
 
 <details>
   <summary>📫GitHub Stats</summary>
-
   <img  alt="Zia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nafi-36&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-
-
 </details>
 
 <details>
   <summary>📊Most Used Languages</summary>
-
   <img alt="Zia GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafi-36&layout=compact&theme=radical" /><br>
-
-  
 </details>
 
 <!-- <details>
   <summary>📊Top Languages</summary>
-    
   <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi-36&theme=monokai" />
   <img alt="Zia GitHub Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafi-36&theme=monokai" />
-  
 </details> -->
-
 
 <details>
   <summary>📫Activity Graph</summary>
-
   <img alt="Siti Nafiatul Fauziah's Contribution Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=nafi-36&theme=radical" />
-
 </details>
 <hr>
 
@@ -91,7 +81,6 @@
 <div align="center">
  
  [![Instagram Badge](https://img.shields.io/badge/-zhyhya-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zhyhya/)](https://www.instagram.com/zhyhya/) [![LinkedIn Badge](https://img.shields.io/badge/-sitinafiatulfauziah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sitinafiatulfauziah/)](https://www.linkedin.com/in/sitinafiatulfauziah/) [![Gmail Badge](https://img.shields.io/badge/-ziafauziah712@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ziafauziah712@gmail.com)](mailto:ziafauziah712@gmail.com)
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-fadillaratna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fadillaratna)](https://www.linkedin.com/in/fadillaratna) -->
   
 </div>
 
