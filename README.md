@@ -4,7 +4,7 @@
   <p>I'm Siti Nafiatul Fauziah.</p>
   <p>I'm currently studying Software Engineering at Telkom University Surabaya.💻🎓</p>
   <br>
-  <p>I have a strong interest in how technology is developing and how it may improve people's lives and entire industries. I'm passionate about software engineering and learn about the complexities of software development, problem-solving, and coming up with new ideas. I'm eager to apply my knowledge to real-world challenges and contribute to the growth of the tech industry.</p>
+  <p>I have a strong interest in how technology is developing and how it may improve people's lives and entire industries. I'm passionate about software engineering and learn about the complexities of software development, problem-solving, and coming up with new ideas.🚀</p>
 </div>
 
 <div align="center">
