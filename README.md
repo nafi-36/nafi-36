@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞! 👋</h1>
+<h1 align="center">Hi There 👋</h1>
 
 <div align="center">
   <p>I'm Siti Nafiatul Fauziah.</p>
@@ -10,8 +10,6 @@
 <div align="center">
   <h3>Skills📚</h3><br>
   
-  <!--🔴 Databases 🔴-->
-  <br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/firebase-%2300f.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
   
