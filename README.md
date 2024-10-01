@@ -1,9 +1,10 @@
 <h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞! 👋</h1>
 
 <div align="center">
-  <h2>°•   𝐼 𝒶𝓂 𝒮𝒾𝓉𝒾 𝒩𝒶𝒻𝒾𝒶𝓉𝓊𝓁 𝐹𝒶𝓊𝓏𝒾𝒶𝒽   •°</h2>
-  <!-- <p>I have no special talent. I am only passionately curious.</p> -->
-  <!-- <img src="https://img.shields.io/github/followers/nafi-36.svg?style=social&label=Followers&maxAge=2592000" /> -->
+  <p>I'm Siti Nafiatul Fauziah.</p>
+  <p>I'm currently studying Software Engineering at Telkom University Surabaya.💻🎓</p>
+  <br>
+  <p>I have a strong interest in how technology is developing and how it may improve people's lives and entire industries. I'm passionate about software engineering and learn about the complexities of software development, problem-solving, and coming up with new ideas. I'm eager to apply my knowledge to real-world challenges and contribute to the growth of the tech industry.</p>
 </div>
 
 <div align="center">
