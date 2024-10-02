@@ -65,7 +65,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://media1.giphy.com/media/yEBXn0xe7UjeNVI354/giphy.gif?cid=6c09b952pkc6tp2lsx7qpknbb66d43dtlybty1i375ls8xxn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="250" />
+  <img src="https://media1.giphy.com/media/yEBXn0xe7UjeNVI354/giphy.gif?cid=6c09b952pkc6tp2lsx7qpknbb66d43dtlybty1i375ls8xxn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200" />
 <!--   <img src="https://media1.giphy.com/media/h5XG7vdp3hq1OolYD2/giphy.gif?cid=6c09b9527gbyvph8wjzot2q4kc3x45kchky0f7umi1m92pg0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="250" /> -->
 <!--   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="200" /> -->
 <!--   <img src="https://gallerypng.com/wp-content/uploads/2024/05/thank-you-png-clipart.png" width="250" /> -->
