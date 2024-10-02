@@ -66,5 +66,5 @@
 <br>
 <div align="center">
 <!--   <img src="https://condaluna.com/assets/stickers/thank-you-pling.gif" width="200" /> -->
-  <img src="https://png.pngtree.com/png-vector/20230520/ourmid/pngtree-thank-you-lettering-clipart-vector-png-image_257025.png" width="200" />
+  <img src="https://png.pngtree.com/png-vector/20220516/ourmid/pngtree-thank-you-cute-lettering-png-image_230129.png" width="200" />
 </div>  
