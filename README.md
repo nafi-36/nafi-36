@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align="center">
-  <h3>Skills 📚</h3><br>
+  <h3>Tech Toolkit 💻</h3><br>
   
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/firebase-%2300f.svg?style=for-the-badge&logo=firebase&logoColor=white)
