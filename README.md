@@ -40,13 +40,13 @@
 </div><br><br>
 
 <details>
-  <summary>📫 GitHub Stats</summary>
-  <img  alt="Zia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nafi-36&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+  <summary>📊 Most Used Languages</summary>
+  <img alt="Zia GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafi-36&layout=compact&theme=radical" /><br>
 </details>
 
 <details>
-  <summary>📊 Most Used Languages</summary>
-  <img alt="Zia GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafi-36&layout=compact&theme=radical" /><br>
+  <summary>📫 GitHub Stats</summary>
+  <img  alt="Zia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nafi-36&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
 </details>
 
 <details>
