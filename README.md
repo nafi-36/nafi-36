@@ -4,14 +4,14 @@
 </div>
 <br>
 <div align="center">
-  <b>I'm Siti Nafiatul Fauziah.</b>
+  <h4>I'm Siti Nafiatul Fauziah.</h4>
   <br>
   <br>
   <p>I'm currently studying Software Engineering at Telkom University Surabaya. I have a strong interest in how technology is developing and I'm passionate about software engineering and learn about the complexities of software development, problem-solving, and coming up with new ideas. 🚀</p>
 </div>
 <br>
 <div align="center">
-  <h3>Tech Toolkit 💻📚</h3><br>
+  <h4>Tech Toolkit 💻📚</h4><br>
 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
