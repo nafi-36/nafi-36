@@ -57,7 +57,7 @@
   <a href="https://www.animatedimages.org/cat-lines-562.htm" align="center"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" border="0" alt="animated-line-image-0184" /></a>
 </div>
 
-<h3 align="center">Reach Me ✨</h3>
+<h3 align="center">Reach Me 🙌</h3>
 <div align="center">
   
  [![Instagram Badge](https://img.shields.io/badge/-zhyhya-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zhyhya/)](https://www.instagram.com/zhyhya/) [![LinkedIn Badge](https://img.shields.io/badge/-sitinafiatulfauziah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sitinafiatulfauziah/)](https://www.linkedin.com/in/sitinafiatulfauziah/) [![Gmail Badge](https://img.shields.io/badge/-ziafauziah712@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ziafauziah712@gmail.com)](mailto:ziafauziah712@gmail.com)
