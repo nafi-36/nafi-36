@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align="center">
-  <h4>Tech Toolkit 💻📚</h4><br>
+  <h3>Tech Toolkit 💻📚</h3><br>
 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
